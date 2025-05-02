@@ -949,6 +949,8 @@
 * [J-pop Music Download](https://jpop.xyz/category/k-pop/) - Music / MP3 / FLAC
 * [KPopExplorer](https://kpopexplorer.net/) - Music / MP3 / FLAC
 * [ilKPOP](https://ilkpop.in/) - Music / MP3
+* [Matikiri](https://matikiri.net/) - Music / MP3
+  
 
 ## ▷ Torrenting
 
